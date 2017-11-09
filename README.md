@@ -6,11 +6,11 @@
 
 
 <h6>&#60;!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-assembly-plugin -->
-<h6>&#60;dependency>
-<h6>	&#60;groupId>org.apache.maven.plugins</groupId>
-<h6>	&#60;artifactId>maven-assembly-plugin</artifactId>
-<h6>	&#60;version>3.1.0</version>
-<h6>&#60;/dependency>
+&#60;dependency>
+	&#60;groupId>org.apache.maven.plugins</groupId>
+	&#60;artifactId>maven-assembly-plugin</artifactId>
+	&#60;version>3.1.0</version>
+&#60;/dependency></h6>
 ----------------
 <build>
 	<plugins>
