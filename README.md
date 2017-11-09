@@ -5,12 +5,12 @@
 <h6>Add following dependency and plugin into project POM file (pom.xml)</h6>
 
 
-<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-assembly-plugin -->
-<dependency>
-	<groupId>org.apache.maven.plugins</groupId>
-	<artifactId>maven-assembly-plugin</artifactId>
-	<version>3.1.0</version>
-</dependency>
+&#60;!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-assembly-plugin -->
+&#60;dependency>
+	&#60;groupId>org.apache.maven.plugins</groupId>
+	&#60;artifactId>maven-assembly-plugin</artifactId>
+	&#60;version>3.1.0</version>
+&#60;/dependency>
 ----------------
 <build>
 	<plugins>
