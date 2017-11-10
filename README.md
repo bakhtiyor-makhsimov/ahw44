@@ -7,9 +7,9 @@
 
 <h6>&lt;!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-assembly-plugin --&gt;</br>
 &lt;dependency&gt;</br>
-	&#09;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;</br>
-	&#09;&lt;artifactId&gt;maven-assembly-plugin&lt;/artifactId&gt;</br>
-	&#09;&lt;version&gt;3.1.0&lt;/version&gt;</br>
+	&nbsp;&#09;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;</br>
+	&nbsp;&#09;&lt;artifactId&gt;maven-assembly-plugin&lt;/artifactId&gt;</br>
+	&nbsp;&#09;&lt;version&gt;3.1.0&lt;/version&gt;</br>
 &lt;/dependency&gt;</h6>
 ----------------
 <build>
